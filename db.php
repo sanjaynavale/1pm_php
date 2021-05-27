@@ -90,7 +90,7 @@
 			}
 			else
 			{
-				echo "Db not connected....";
+				echo "Db not connected...."; //db problem
 			}
 			
 		}
